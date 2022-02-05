@@ -4,7 +4,7 @@
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div> 
-      <center>  <img src="image/Logo.png" style="width:50%" class="d-block w-50" alt="First Slide">
+      <center>  <img src="image/BBQ.jpg" style="width:50%" class="d-block w-50" alt="First Slide">
       </div>
       <div class="carousel-item">
        <center> <img src="image/Steak.png" style="width:50%" class="d-block w-50" alt="Second Slide">

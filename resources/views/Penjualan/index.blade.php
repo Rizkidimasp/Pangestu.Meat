@@ -4,6 +4,7 @@
 @section('content')
   <h3>Data Daging</h3>
   <a href="{{route('penjualan.create')}}" class="btn btn-success">Tambah Data</a>
+  <img src="url('public/image/Logo.png')">
   <table class="table table-striped">
       <thead>
         <tr>
